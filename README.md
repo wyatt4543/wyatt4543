@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @wyatt4543
 - 👀 I’m interested in coding and gaming
 - 🌱 I’m currently learning multiple coding languages
-- 💞️ I’m looking to collaborate on stuff idk
 
 <!---
 wyatt4543/wyatt4543 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
